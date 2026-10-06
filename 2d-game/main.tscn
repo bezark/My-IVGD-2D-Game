@@ -11,5 +11,5 @@ scale = Vector2(0.40966666, 0.30769232)
 texture = ExtResource("1_0xm2m")
 
 [node name="Icon" type="Sprite2D" parent="." unique_id=53624175]
-position = Vector2(552, 247)
+position = Vector2(1051, 219)
 texture = ExtResource("2_h2yge")
