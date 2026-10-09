@@ -2,6 +2,7 @@
 
 [ext_resource type="Texture2D" uid="uid://dgxb8wla7f3t5" path="res://moebius.jpg" id="1_0xm2m"]
 [ext_resource type="Texture2D" uid="uid://bpvi3lfu530w" path="res://icon.svg" id="2_h2yge"]
+[ext_resource type="Script" uid="uid://cv26g8pdyb80u" path="res://icon.gd" id="3_h2yge"]
 
 [node name="Node2D" type="Node2D" unique_id=673510965]
 
@@ -12,5 +13,6 @@ texture = ExtResource("1_0xm2m")
 
 [node name="Icon" type="Sprite2D" parent="." unique_id=53624175]
 modulate = Color(0.13333334, 1, 0.32941177, 1)
-position = Vector2(1051, 219)
+position = Vector2(507, 352)
 texture = ExtResource("2_h2yge")
+script = ExtResource("3_h2yge")
